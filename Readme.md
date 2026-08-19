@@ -2,7 +2,6 @@
 # [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview)
 These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) 
 
-Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu
 
 **Note:** These notes are a work in progress. 
 
@@ -83,7 +82,6 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
 
 
 ### Youtube
-- [YouTube Architecture](http://highscalability.com/youtube-architecture)
 - [YouTube scalability 2012](https://www.youtube.com/watch?v=w5WVu624fY8)
 - [Transcoding Videos at Scale](https://www.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/)
 - [Facebook Video Broadcasting](https://engineering.fb.com/ios/under-the-hood-broadcasting-live-video-to-millions/)
